@@ -1,8 +1,7 @@
-# complete-DSA-preparation
 <h1 align="center">
   <a name="logo"><img src="[https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa%20logo.png](https://github.com/anilkrrana/complete-DSA-preparation)" alt="Complete DSA Preparation" width="750"></a>
   <br>
-  Complete DSA Preparation Course
+  Complete DSA Preparation
 </h1>
 <h4 align="center">Make sure to :star: my DSA repo so you can keep up to date on any daily progress!</h4>
 <!-- <div align="center">
