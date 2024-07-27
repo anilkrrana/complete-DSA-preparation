@@ -69,7 +69,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 _A little Contribution :moneybag:Makes You Happy :heart: (And me Also :blush:)_
 <br>
-<img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/anilkrrana/complete-DSA-preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/dsa-course@upi.jpg" alt="bhim upi" width="50"/></a>
+<img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/anilkrrana/complete-DSA-preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/dsa-course@ibl.jpg" alt="bhim upi" width="50"/></a>
 
 
 
