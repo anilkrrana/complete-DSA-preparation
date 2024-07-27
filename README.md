@@ -69,7 +69,7 @@ _If you like this project, please leave me a star._ &#9733;
 
 _A little Contribution :moneybag:Makes You Happy :heart: (And me Also :blush:)_
 <br>
-<img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/><a href="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa-course%40upi.jpg"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/dsa-course@upi.jpg" alt="bhim upi" width="50"/></a>
+<img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/phone-pe.png" alt="Phone Pe" width="60"/><img src="https://github.com/anilkrrana/complete-DSA-preparation/blob/main/img/Google-Pay.png" alt="Google Pay" width="60"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/bhim.png" alt="bhim" width="50"/><a href="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/dsa-course%40upi.jpg"><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/dsa-course@upi.jpg" alt="bhim upi" width="50"/></a>
 
 
 
@@ -445,7 +445,7 @@ The Whole content management system is released under the under terms of the [MI
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
- Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/iamprince/)***, ***[Telegram](https://telegram.me/helloworldbyprince)***
+ Let me know your views on the repository or any changes or improvements at ***[LinkedIn](https://www.linkedin.com/in/anil-kumar-rana/)***
  
  :heart: ***Thank you all for Forking this repository***  :heart:
 
