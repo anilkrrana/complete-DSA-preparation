@@ -58,12 +58,12 @@ This Repo is designed for Smart Home inspiration.  The configuration, devices, l
 
 
 # [LeetCode](https://leetcode.com/problemset/algorithms/) | [GeeksforGeeks](https://practice.geeksforgeeks.org/) 
-[![GitHub license](https://img.shields.io/github/license/Prince-1501/Complete-DSA-Preparation.svg)](https://github.com/Prince-1501/Complete-DSA-Preparation/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/anilkrrana/Complete-DSA-Preparation.svg)](https://github.com/anilkrrana/Complete-DSA-Preparation/blob/master/LICENSE)
 
 
 _If you like this project, please leave me a star._ &#9733;
 
-<img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/leetcode.png" alt="leetcode" width="60"/><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/geeksforgeeks.png" alt="geeksforgeeks" width="60"/><a href="https://www.youtube.com/channel/UCbW63uLlDnsL7l992Z9nF_Q/"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/hello_world.png" alt="Hello World" width="90"/></a>
+<img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/leetcode.png" alt="leetcode" width="60"/><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/geeksforgeeks.png" alt="geeksforgeeks" width="60"/><a href="https://www.youtube.com/@webtechnil"><img src="https://github.com/anilkrrana/Complete-DSA-Preparation/blob/main/img/hello_world.png" alt="Hello World" width="90"/></a>
 
 
 
