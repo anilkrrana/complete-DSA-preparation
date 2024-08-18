@@ -437,9 +437,9 @@ dsa-course@ibl
 The Whole content management system is released under the under terms of the [MIT License](LICENSE).
 
 
-## Connect with us  ~Prince
+## Connect with us  ~Anil
 
-<a href="https://whttps://www.linkedin.com/in/anil-kumar-rana/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
+<a href="https://www.linkedin.com/in/anil-kumar-rana/" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/linkedin.png" alt="Linkedin" width="60"/></a>
 <a href="https://www.youtube.com/@webtechnil" target="_blank"><img src="https://github.com/Prince-1501/Complete-DSA-Preparation/blob/main/img/youtube.png" alt="youtube" width="85"/></a>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
